@@ -29,3 +29,4 @@ cd alx-listing-app 2. Install Dependencies
 Make sure you have Node.js installed (v14 or later).
 npm install 3. Run the Development Server
 npm run dev
+Ahmed Aliyu Said
